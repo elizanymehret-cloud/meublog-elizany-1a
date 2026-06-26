@@ -1,0 +1,13 @@
+.cabecalho{
+    backgraund-color:black;
+    color:yellow;
+    text-aling:center;
+    margim:0 auto;
+max-width: 800px;
+}
+
+.principal{
+    background-color: yellow;
+    color:black;
+
+
